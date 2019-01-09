@@ -1,0 +1,1 @@
+This folder contains files that were trimmed down by cutting off a few minutes at the beginning and end of both files. They are labeled.
